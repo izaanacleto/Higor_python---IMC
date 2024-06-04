@@ -1,2 +1,2 @@
 # Higor_python---IMC
-codigo em pytho - higor
+código em python - higor
